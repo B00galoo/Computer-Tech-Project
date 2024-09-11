@@ -1,3 +1,12 @@
-h1 {
-  color: red;
+.LandingContainer {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.LandingContainer .LandingCard {
+  background-color: red;
+  width: 100px;
+  height: 75px;
+  border-radius: 30px;
 }/*# sourceMappingURL=LandingPage.css.map */
